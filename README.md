@@ -10,7 +10,8 @@ Right now, I'm focusing on Linux, AWS, Docker, Kubernetes, Terraform, and CI/CD 
 
 My goal is to become a Cloud & DevOps Engineer who designs scalable, secure, and automated systems for real-world environments.
 
-If you're here, feel free to explore my repositories. Every project represents something new I've learned and documented throughout my journey.
+If you're visiting my profile, feel free to explore my repositories.
+Each project represents something I've built, experimented with, and documented as part of my learning journey.
 
 ### Fun Facts
 
@@ -24,14 +25,14 @@ If you're here, feel free to explore my repositories. Every project represents s
 
 ### Current Focus
 
-- ☁️ AWS Cloud
-- 🐧 Linux System Administration
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🚀 CI/CD
-- 🌐 Computer Networking
-- 🏗️ Infrastructure as Code (Terraform)
+☁️ AWS Cloud
+🐧 Linux
+🐳 Docker
+🚀 CI/CD
+☸️ Kubernetes
+🌐 Networking
+🏗️ Terraform
 
 ---
 
-*"Build. Break. Learn. Repeat."*
+*"Build. Break. Learn. Improve. Repeat."*
